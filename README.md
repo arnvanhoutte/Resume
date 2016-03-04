@@ -3,7 +3,7 @@
 ##Contact
 
 Email: [arnvanhoutte@hotmail.com](mailto:arnvanhoutte@hotmail.com)  
-Website: [arnvanhoutte.be](https://arnvanhoutte.be/)
+Website: [arnvanhoutte.be](http://arnvanhoutte.be/)
 
 ##About
 
@@ -57,6 +57,7 @@ New Media and Communication Technology
 * NetSec
 * Windows App Development
 * Linux
+* Lockpicking
 * IoT
 * Formula 1
 * Gaming
