@@ -42,6 +42,7 @@ New Media and Communication Technology
 * HTML
 * CSS
 * JavaScript
+* TypeScript
 
 **Back-End**
 * ASP.NET MVC5
