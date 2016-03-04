@@ -15,6 +15,15 @@ Twitter: [@arnvanhoutte](https://twitter.com/arnvanhoutte)
 Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)  
 Github: [arnvanhoutte](https://github.com/arnvanhoutte)
 
+##Experience
+**Student work at bPost**  
+Mailman  
+*2012-2015*
+
+**Internship at Televic**  
+ASP.NET dev  
+*2012-2015*
+
 ##Education
 **Sint-Joris Menen**  
 Applied Sciences  
