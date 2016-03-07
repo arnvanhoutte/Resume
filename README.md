@@ -33,7 +33,7 @@ Applied Sciences
 Chemical Engineering  
 *2012-2013*
 
-**Howent**  
+**HoWest**  
 New Media and Communication Technology  
 *2013-2016*
 
