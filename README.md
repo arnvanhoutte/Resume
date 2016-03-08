@@ -10,21 +10,24 @@ Website: [arnvanhoutte.be](http://arnvanhoutte.be/)
 I'm an NMCT student at the Howest Kortrijk. I grew up from a small place called Wervik. I've always had a big interest in science and technology. I studied Chemical Engineering 1 year in Ghent, but noticed it was a bit too hard for me. So I switched and learned how to program instead. 
 
 ##Profiles
+
 Facebook: [Arn Vanhoutte](https://www.facebook.com/arnvanhoutte)  
 Twitter: [@arnvanhoutte](https://twitter.com/arnvanhoutte)  
 Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)  
 Github: [arnvanhoutte](https://github.com/arnvanhoutte)
 
 ##Experience
+
 **Student work at bPost**  
 Mailman  
 *2012-2015*
 
 **Internship at Televic**  
-ASP.NET dev  
+ASP.NET dev on Edumatic platform
 *2012-2015*
 
 ##Education
+
 **Sint-Joris Menen**  
 Applied Sciences  
 *Graduated in 2012*
@@ -38,6 +41,7 @@ New Media and Communication Technology
 *2013-2016*
 
 ##Skills
+
 **Front-End**  
 * HTML
 * CSS
@@ -64,6 +68,7 @@ New Media and Communication Technology
 * English
 
 ##Interests
+
 * NetSec
 * Windows App Development
 * Linux
