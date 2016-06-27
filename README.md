@@ -6,7 +6,7 @@ Email: [arnvanhoutte@hotmail.com](mailto:arnvanhoutte@hotmail.com)
 Website: [arnvanhoutte.be](http://arnvanhoutte.be/)  
 
 Facebook: [Arn Vanhoutte](https://www.facebook.com/arnvanhoutte)  
-Twitter: [@arnvanhoutte](https://twitter.com/arnvanhoutte)  
+Twitter: @[arnvanhoutte](https://twitter.com/arnvanhoutte)  
 Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)  
 Github: [arnvanhoutte](https://github.com/arnvanhoutte)
 
