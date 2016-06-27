@@ -16,15 +16,14 @@ Twitter: [@arnvanhoutte](https://twitter.com/arnvanhoutte)
 Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)  
 Github: [arnvanhoutte](https://github.com/arnvanhoutte)
 
-##Experience
-
+##Experience  
 **Student work at bPost**  
 Mailman  
 *2012-2015*
 
 **Internship at Televic**  
-ASP.NET dev on Edumatic platform
-*2012-2015*
+ASP.NET dev on Edumatic platform  
+*2016*
 
 ##Education
 
@@ -43,37 +42,41 @@ New Media and Communication Technology
 ##Skills
 
 **Front-End**  
-* HTML
-* CSS
-* JavaScript
-* TypeScript
+* HTML +++
+* CSS ++
+* JavaScript ++
+* TypeScript ++
 
 **Back-End**
-* ASP.NET MVC5
-* NodeJS
-* PHP
-* Flask
+* ASP.NET MVC5 +++
+* NodeJS +
+* PHP +
+* Flask +
 
 **Languages**  
-* C#
-* JavaScript
-* Python
-* Go
-* Java
-* PHP
+* C# +++
+* JavaScript ++
+* Python ++
+* Go +
+* Java +
+* PHP +
 
 ##Languages
 
-* Dutch
-* English
+* Dutch +++
+* English +++
 
 ##Interests
 
-* NetSec
-* Windows App Development
-* Linux
-* Lockpicking
+* NetSec ++
+* Windows App Development +++
+    * Windows 8 ++
+    * Windows Phone 8 +++
+    * UWP/Windows 10 +++
+* Linux ++
+* Bots
+    * MS Bot Framework +++
 * IoT
-* Formula 1
-* Gaming
-    * Racing
+    * Raspberry Pi +++
+    * Arduino +++
+    * Netduino ++
