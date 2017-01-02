@@ -3,24 +3,27 @@
 ## Contact
 
 Email: [arnvanhoutte@hotmail.com](mailto:arnvanhoutte@hotmail.com)  
-Website: [arnvanhoutte.be](http://arnvanhoutte.be/)  
+Website: [arnvanhoutte.be](https://arnvanhoutte.be/)  
 
-Facebook: [Arn Vanhoutte](https://www.facebook.com/arnvanhoutte)  
 Twitter: @[arnvanhoutte](https://twitter.com/arnvanhoutte)  
 Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)  
 Github: [arnvanhoutte](https://github.com/arnvanhoutte)
-
-## About
-
-I'm an NMCT student at the Howest Kortrijk. I grew up from a small place called Wervik. I've always had a big interest in science and technology. I studied Chemical Engineering for 1 year in Ghent, but noticed it was not my cup of tea. So I challenged myself to try something completely new to me and learned how to program instead. The possibilities I had with programming really blew my mind, and with a thriving mobile development sector, I started creating my own apps to increase my knowledge about C#. In my second year I moved my focus to Backend programming with frameworks like ASP.NET. In the summer I discovered Arduino's and Raspberri Pi's, so started finding my way in the Maker community. In my final year of college I tried to look beyond the code, and picked up an interest for Information Security related topics. There I learned more about Linux systems. Recently I started experimenting a bit with the MS Bot Framework and playing with bots on media like Facebook and Slack.
 
 ## Experience  
 **Student work at bpost**  
 Mailman  
 *2012-2015*
 
+**Winner of MS Get Skilled Award**  
+*2015*  
+
 **Internship at Televic**  
 ASP.NET dev on Edumatic platform  
+*2016*
+
+**Student work at Televic**  
+Full-stack developer
+    TypeScript + ASP.NET + CSS
 *2016*
 
 ## Education
@@ -35,17 +38,23 @@ Chemical Engineering
 
 **HoWest**  
 New Media and Communication Technology  
-*2013-2016*
+*Graduated in 2016*
+
+**UGent**  
+Software Engineering  
+*2016-2017*  
 
 ## Skills
 | **Front-End**    | **Back-End**      | **App Dev**           | **Languages**   |
 | ---------------- | ----------------- | --------------------- | --------------- |
 |  HTML +++        | ASP.NET MVC5 +++  | UWP/Windows 10 +++    | C# +++          |
-|  CSS ++          | NodeJS  +         | Windows (Phone) 8 +++ | JavaScript ++   |
-|  JavaScript ++   | PHP +             | Xamarin ++            | Python ++       |
-|  TypeScript ++   | Flask +           | Android +             | Go +            |
-|                  |                   |                       | Java +          |
-|                  |                   |                       | PHP +           |
+|  CSS ++          | ASP.NET Core +++  | Windows (Phone) 8 +++ | JavaScript ++   |
+|  JavaScript ++   | PHP +             | WPF +++               | Python ++       |
+|  TypeScript ++   | Flask +           | Xamarin ++            | Go +            |
+|  Angular +       | NodeJS  +         | Android +             | Java +          |
+|  VueJS +         |                   |                       | PHP +           |
+|  JQuery +        |                   |                       | C +             |
+|                  |                   |                       | C++ +           |
 
 ## Languages
 
@@ -55,10 +64,6 @@ New Media and Communication Technology
 ## Interests
 
 * NetSec ++
-* Windows App Development +++
-    * Windows 8 ++
-    * Windows Phone 8 +++
-    * UWP/Windows 10 +++
 * Linux ++
 * Bots
     * MS Bot Framework +++
@@ -66,3 +71,4 @@ New Media and Communication Technology
     * Raspberry Pi +++
     * Arduino +++
     * Netduino ++
+* Playing guitar +
