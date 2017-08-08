@@ -10,21 +10,29 @@ Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)
 Github: [arnvanhoutte](https://github.com/arnvanhoutte)
 
 ## Experience  
-**Student work at bpost**  
-Mailman  
-*2012-2015*
 
-**Winner of MS Get Skilled Award**  
-*2015*  
+**Student work at Desk Solutions**  
+Software engineer  
+    WFP + ASP.NET + Angular 1 + SQL  
+*2017*
+
+**Student work at Televic**  
+Full-stack developer
+    TypeScript + ASP.NET + CSS  
+*2016*
 
 **Internship at Televic**  
 ASP.NET dev on Edumatic platform  
 *2016*
 
-**Student work at Televic**  
-Full-stack developer
-    TypeScript + ASP.NET + CSS
-*2016*
+**Student work at bpost**  
+Mailman  
+*2012-2015*
+
+## Awards
+
+**Winner of MS Get Skilled Award**  
+*2015*  
 
 ## Education
 
@@ -49,12 +57,14 @@ Software Engineering
 | ---------------- | ----------------- | --------------------- | --------------- |
 |  HTML +++        | ASP.NET MVC5 +++  | UWP/Windows 10 +++    | C# +++          |
 |  CSS ++          | ASP.NET Core +++  | Windows (Phone) 8 +++ | JavaScript ++   |
-|  JavaScript ++   | PHP +             | WPF +++               | Python ++       |
-|  TypeScript ++   | Flask +           | Xamarin ++            | Go +            |
-|  Angular +       | NodeJS  +         | Android +             | Java +          |
-|  VueJS +         |                   |                       | PHP +           |
+|  JavaScript ++   | SQL ++            | WPF +++               | Python ++       |
+|  TypeScript ++   | PHP +             | Xamarin +             | Go +            |
+|  Angular +       | Flask +           | Android +             | Java +          |
+|  VueJS +         | NodeJS  +         |                       | PHP +           |
 |  JQuery +        |                   |                       | C +             |
 |                  |                   |                       | C++ +           |
+
+*+++ = very experienced, ++ = experienced, + = beginner*
 
 ## Languages
 
