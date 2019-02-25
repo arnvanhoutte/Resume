@@ -14,24 +14,24 @@ Phone: 0479 257891
 
 ## Experience  
 
-**Consultant for 3-IT, active at AT&T**  
-Full stack developer, Technical Team Lead
+**Full stack developer**  
+Consultant at AT&T through 3-IT and Cegeka  
     ASP.NET Core 2 + Angular 7 + SQL  
 *October 2017 - now*
 
-**Working at Desk Solutions**  
-Software engineer  
+**Software engineer**  
+Desk Solutions  
     WFP + ASP.NET + Angular 1 + SQL  
 *January 2017 - October 2017*
 
-**Student work at Televic**  
-Full-stack developer  
+**Full-stack developer**  
+Student work at Televic  
     TypeScript + ASP.NET + CSS  
-*July - September 2016*
+*July - September 2016*  
 
-**Internship at Televic**  
-ASP.NET dev on Edumatic platform
-    TypeScript + ASP.NET + SQL + Webix  
+**Full-stack developer**  
+Internship at Televic  
+    TypeScript + ASP.NET + SQL + Webix  + Azure Elastic Scale  
 *February - May 2016*
 
 ## Awards
@@ -50,12 +50,8 @@ Windows Phone app
 
 ## Education
 
-**UGent**  
-Software Engineering  
-*2016-2017*  
-
-**HoWest**  
-New Media and Communication Technology  
+**Hogeschool West-Vlaanderen**  
+Bachelors in New Media and Communication Technology  
 *Graduated in 2016*
 
 ## Skills
@@ -94,3 +90,4 @@ New Media and Communication Technology
     * Cycling
     * Running
 * Reading
+* 3D Printing
