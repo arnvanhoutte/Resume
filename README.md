@@ -2,8 +2,8 @@
 
 ## Contact
 
-Email: [arnvanhoutte@hotmail.com](mailto:hello@arnvanhoutte.be)  
-Website: [arnvanhoutte.be](https://arnvanhoutte.be/)  
+Email: [arn@vanhoutte.dev](mailto:arn@vanhoutte.dev)  
+Website: [arn.vanhoutte.dev](https://arn.vanhoutte.dev/)  
 
 Twitter: @[arnvanhoutte](https://twitter.com/arnvanhoutte)  
 Linkedin: [Arn Vanhoutte](https://www.linkedin.com/in/arn-vanhoutte-00212492)  
@@ -79,15 +79,15 @@ Bachelors in New Media and Communication Technology
 * NetSec ++
 * Linux ++
 * Bots
-    * MS Bot Framework +++
+  * MS Bot Framework +++
 * IoT
-    * Arduino +++
-    * Netduino +++
-    * Meadow
-    * Raspberry Pi ++
+  * Arduino +++
+  * Netduino +++
+  * Meadow
+  * Raspberry Pi ++
 * Sports
-    * Motorsports
-    * Cycling
-    * Running
+  * Motorsports
+  * Cycling
+  * Running
 * Reading
 * 3D Printing
